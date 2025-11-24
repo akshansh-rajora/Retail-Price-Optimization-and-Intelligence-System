@@ -1,0 +1,261 @@
+review_id,product_id,review,rating,date
+R00000,P0009,Product quality was below expectation.,5,2025-11-05
+R00001,P0003,Customer service did not respond.,3,2025-03-21
+R00002,P0030,"Packaging was damaged, but product is fine.",5,2025-02-12
+R00003,P0029,Amazing build quality and easy to use.,2,2025-08-21
+R00004,P0038,Size/color not as described.,5,2024-12-31
+R00005,P0041,"Five stars, will buy again.",5,2025-02-24
+R00006,P0041,"Packaging was damaged, but product is fine.",5,2025-05-26
+R00007,P0031,"Exceeded expectations, highly recommend!",5,2025-10-05
+R00008,P0029,Customer service did not respond.,3,2025-04-22
+R00009,P0017,"Packaging was damaged, but product is fine.",2,2025-11-14
+R00010,P0001,Product quality was below expectation.,5,2025-05-27
+R00011,P0019,Amazing build quality and easy to use.,4,2025-11-15
+R00012,P0045,Size/color not as described.,4,2025-06-19
+R00013,P0001,"Packaging was damaged, but product is fine.",4,2025-01-18
+R00014,P0015,Amazing build quality and easy to use.,1,2025-05-12
+R00015,P0013,Amazing build quality and easy to use.,4,2025-04-10
+R00016,P0026,Product quality was below expectation.,2,2024-12-24
+R00017,P0025,"Exceeded expectations, highly recommend!",4,2025-07-08
+R00018,P0006,"Exceeded expectations, highly recommend!",4,2025-02-28
+R00019,P0040,"Packaging was damaged, but product is fine.",3,2024-12-22
+R00020,P0035,"Five stars, will buy again.",3,2025-08-15
+R00021,P0005,Product quality was below expectation.,2,2025-06-24
+R00022,P0008,Mediocre experience overall.,4,2025-04-02
+R00023,P0018,Size/color not as described.,5,2025-08-15
+R00024,P0021,Product quality was below expectation.,1,2025-10-25
+R00025,P0035,Product quality was below expectation.,1,2025-09-28
+R00026,P0019,Product quality was below expectation.,3,2025-04-09
+R00027,P0001,Good value for money.,2,2025-09-03
+R00028,P0001,"Exceeded expectations, highly recommend!",4,2025-05-28
+R00029,P0027,Size/color not as described.,3,2025-05-13
+R00030,P0030,Customer service did not respond.,1,2025-10-09
+R00031,P0010,"Packaging was damaged, but product is fine.",1,2025-05-03
+R00032,P0005,Size/color not as described.,5,2025-08-19
+R00033,P0013,"Five stars, will buy again.",3,2025-11-13
+R00034,P0008,"Five stars, will buy again.",2,2025-04-07
+R00035,P0016,"Exceeded expectations, highly recommend!",1,2025-03-29
+R00036,P0007,"Exceeded expectations, highly recommend!",5,2025-03-22
+R00037,P0025,Customer service did not respond.,3,2025-08-30
+R00038,P0041,Amazing build quality and easy to use.,1,2025-02-26
+R00039,P0008,Size/color not as described.,3,2024-12-28
+R00040,P0020,Customer service did not respond.,2,2025-10-24
+R00041,P0043,Good value for money.,2,2025-07-22
+R00042,P0041,Customer service did not respond.,4,2025-11-12
+R00043,P0011,Mediocre experience overall.,3,2025-09-19
+R00044,P0026,"Great product, fast delivery.",2,2025-10-29
+R00045,P0038,Mediocre experience overall.,4,2025-09-01
+R00046,P0024,"Exceeded expectations, highly recommend!",1,2025-08-31
+R00047,P0032,Mediocre experience overall.,1,2025-05-30
+R00048,P0041,"Great product, fast delivery.",1,2025-05-21
+R00049,P0042,Amazing build quality and easy to use.,2,2025-09-26
+R00050,P0009,"Exceeded expectations, highly recommend!",4,2025-06-10
+R00051,P0036,Size/color not as described.,3,2025-08-13
+R00052,P0002,Customer service did not respond.,4,2025-09-12
+R00053,P0017,Size/color not as described.,1,2024-11-23
+R00054,P0029,"Packaging was damaged, but product is fine.",5,2025-02-15
+R00055,P0045,"Exceeded expectations, highly recommend!",4,2025-02-02
+R00056,P0012,Customer service did not respond.,5,2025-06-07
+R00057,P0030,Mediocre experience overall.,3,2025-02-09
+R00058,P0011,Amazing build quality and easy to use.,1,2025-09-01
+R00059,P0029,"Packaging was damaged, but product is fine.",3,2025-02-15
+R00060,P0024,"Great product, fast delivery.",4,2024-12-28
+R00061,P0033,Product quality was below expectation.,4,2025-11-10
+R00062,P0040,Mediocre experience overall.,3,2025-07-20
+R00063,P0021,Amazing build quality and easy to use.,1,2025-05-05
+R00064,P0013,Size/color not as described.,5,2025-02-10
+R00065,P0010,"Packaging was damaged, but product is fine.",5,2025-06-07
+R00066,P0027,Good value for money.,3,2025-10-01
+R00067,P0034,"Great product, fast delivery.",1,2025-09-14
+R00068,P0012,"Exceeded expectations, highly recommend!",1,2025-09-26
+R00069,P0032,Good value for money.,2,2025-11-03
+R00070,P0037,Size/color not as described.,4,2025-02-23
+R00071,P0040,"Packaging was damaged, but product is fine.",5,2025-10-25
+R00072,P0024,Mediocre experience overall.,2,2025-10-14
+R00073,P0001,Size/color not as described.,2,2025-10-10
+R00074,P0030,Customer service did not respond.,1,2025-02-07
+R00075,P0027,"Great product, fast delivery.",3,2025-01-08
+R00076,P0018,"Great product, fast delivery.",5,2025-10-14
+R00077,P0020,"Exceeded expectations, highly recommend!",1,2025-02-27
+R00078,P0007,"Exceeded expectations, highly recommend!",1,2025-02-20
+R00079,P0025,"Exceeded expectations, highly recommend!",2,2025-02-23
+R00080,P0043,Mediocre experience overall.,2,2025-01-03
+R00081,P0012,Amazing build quality and easy to use.,5,2025-04-21
+R00082,P0007,Customer service did not respond.,5,2024-12-09
+R00083,P0030,Good value for money.,4,2025-08-26
+R00084,P0012,"Five stars, will buy again.",5,2025-03-06
+R00085,P0022,Amazing build quality and easy to use.,2,2025-01-16
+R00086,P0029,Customer service did not respond.,3,2025-02-11
+R00087,P0021,"Five stars, will buy again.",3,2024-12-30
+R00088,P0028,Mediocre experience overall.,3,2025-07-19
+R00089,P0037,"Exceeded expectations, highly recommend!",5,2025-05-11
+R00090,P0036,Customer service did not respond.,3,2025-04-02
+R00091,P0029,"Great product, fast delivery.",4,2025-11-02
+R00092,P0019,"Great product, fast delivery.",5,2025-02-27
+R00093,P0009,"Great product, fast delivery.",3,2025-06-19
+R00094,P0015,Customer service did not respond.,2,2025-11-08
+R00095,P0045,Amazing build quality and easy to use.,3,2025-03-03
+R00096,P0036,Mediocre experience overall.,5,2025-09-01
+R00097,P0007,Size/color not as described.,1,2025-05-21
+R00098,P0010,"Packaging was damaged, but product is fine.",2,2025-05-16
+R00099,P0038,"Exceeded expectations, highly recommend!",2,2025-07-11
+R00100,P0020,Mediocre experience overall.,1,2025-04-29
+R00101,P0037,Good value for money.,2,2025-06-06
+R00102,P0031,Size/color not as described.,2,2024-12-01
+R00103,P0045,Good value for money.,5,2025-01-19
+R00104,P0042,"Great product, fast delivery.",3,2025-01-28
+R00105,P0025,"Great product, fast delivery.",1,2025-06-01
+R00106,P0023,"Five stars, will buy again.",4,2025-09-19
+R00107,P0015,"Great product, fast delivery.",5,2024-12-30
+R00108,P0041,"Great product, fast delivery.",4,2025-06-16
+R00109,P0034,Customer service did not respond.,1,2025-02-16
+R00110,P0037,Customer service did not respond.,2,2025-03-07
+R00111,P0045,Product quality was below expectation.,2,2025-10-25
+R00112,P0044,Size/color not as described.,4,2025-01-19
+R00113,P0037,Good value for money.,5,2025-07-29
+R00114,P0028,"Five stars, will buy again.",3,2025-09-05
+R00115,P0009,Good value for money.,3,2025-03-21
+R00116,P0037,Amazing build quality and easy to use.,1,2025-04-29
+R00117,P0017,"Five stars, will buy again.",1,2025-03-08
+R00118,P0028,Product quality was below expectation.,2,2025-03-18
+R00119,P0036,Size/color not as described.,2,2025-05-01
+R00120,P0042,"Exceeded expectations, highly recommend!",5,2025-02-05
+R00121,P0040,"Exceeded expectations, highly recommend!",5,2025-07-18
+R00122,P0005,"Five stars, will buy again.",3,2025-06-07
+R00123,P0044,Good value for money.,5,2025-09-23
+R00124,P0043,"Five stars, will buy again.",4,2025-05-16
+R00125,P0023,Customer service did not respond.,2,2025-05-27
+R00126,P0039,"Packaging was damaged, but product is fine.",1,2025-08-25
+R00127,P0023,Size/color not as described.,5,2025-01-04
+R00128,P0010,"Great product, fast delivery.",4,2025-07-23
+R00129,P0013,Product quality was below expectation.,3,2025-10-07
+R00130,P0008,"Exceeded expectations, highly recommend!",1,2025-01-06
+R00131,P0010,"Great product, fast delivery.",3,2025-05-28
+R00132,P0045,"Packaging was damaged, but product is fine.",1,2025-04-03
+R00133,P0031,Customer service did not respond.,1,2025-08-04
+R00134,P0035,"Exceeded expectations, highly recommend!",2,2025-02-13
+R00135,P0034,Amazing build quality and easy to use.,3,2025-03-17
+R00136,P0040,"Great product, fast delivery.",2,2025-05-11
+R00137,P0038,"Great product, fast delivery.",5,2025-07-12
+R00138,P0011,"Packaging was damaged, but product is fine.",1,2025-08-09
+R00139,P0045,"Packaging was damaged, but product is fine.",5,2025-10-23
+R00140,P0030,Good value for money.,1,2025-05-05
+R00141,P0043,Customer service did not respond.,3,2025-09-25
+R00142,P0002,"Five stars, will buy again.",3,2025-07-24
+R00143,P0025,Good value for money.,5,2025-06-11
+R00144,P0032,Amazing build quality and easy to use.,5,2025-10-05
+R00145,P0012,Amazing build quality and easy to use.,2,2025-03-30
+R00146,P0036,"Great product, fast delivery.",1,2025-07-16
+R00147,P0034,Customer service did not respond.,3,2025-03-14
+R00148,P0026,"Great product, fast delivery.",2,2025-05-26
+R00149,P0044,Customer service did not respond.,3,2025-01-03
+R00150,P0020,Amazing build quality and easy to use.,2,2025-07-01
+R00151,P0004,"Five stars, will buy again.",3,2025-11-04
+R00152,P0036,"Exceeded expectations, highly recommend!",3,2025-09-03
+R00153,P0022,Product quality was below expectation.,4,2025-10-06
+R00154,P0025,Mediocre experience overall.,5,2025-01-03
+R00155,P0044,"Five stars, will buy again.",2,2025-07-19
+R00156,P0037,"Five stars, will buy again.",2,2025-06-13
+R00157,P0039,Size/color not as described.,3,2025-02-15
+R00158,P0009,Product quality was below expectation.,2,2025-01-26
+R00159,P0035,Product quality was below expectation.,2,2025-06-14
+R00160,P0045,Product quality was below expectation.,5,2025-04-13
+R00161,P0010,Product quality was below expectation.,5,2025-06-10
+R00162,P0005,Amazing build quality and easy to use.,5,2025-09-20
+R00163,P0012,Product quality was below expectation.,3,2025-11-04
+R00164,P0021,"Five stars, will buy again.",4,2025-06-17
+R00165,P0029,Product quality was below expectation.,3,2025-08-15
+R00166,P0007,Product quality was below expectation.,2,2025-11-06
+R00167,P0040,"Packaging was damaged, but product is fine.",5,2025-01-13
+R00168,P0037,"Exceeded expectations, highly recommend!",5,2025-01-18
+R00169,P0015,"Great product, fast delivery.",2,2025-05-20
+R00170,P0006,Product quality was below expectation.,4,2025-03-07
+R00171,P0039,Customer service did not respond.,4,2025-08-17
+R00172,P0025,Size/color not as described.,4,2025-09-10
+R00173,P0011,"Exceeded expectations, highly recommend!",2,2025-11-03
+R00174,P0027,"Packaging was damaged, but product is fine.",1,2025-04-22
+R00175,P0015,"Exceeded expectations, highly recommend!",2,2025-10-17
+R00176,P0012,Mediocre experience overall.,4,2025-03-14
+R00177,P0045,Size/color not as described.,3,2025-07-16
+R00178,P0028,"Great product, fast delivery.",4,2025-01-12
+R00179,P0025,"Five stars, will buy again.",3,2025-01-10
+R00180,P0037,Amazing build quality and easy to use.,5,2025-02-24
+R00181,P0042,Amazing build quality and easy to use.,1,2025-09-25
+R00182,P0029,"Great product, fast delivery.",4,2025-07-17
+R00183,P0034,"Five stars, will buy again.",5,2025-10-30
+R00184,P0036,Amazing build quality and easy to use.,4,2025-01-01
+R00185,P0004,"Packaging was damaged, but product is fine.",2,2025-04-08
+R00186,P0026,"Packaging was damaged, but product is fine.",3,2025-03-28
+R00187,P0011,"Packaging was damaged, but product is fine.",4,2025-01-10
+R00188,P0004,Product quality was below expectation.,5,2025-03-27
+R00189,P0042,Good value for money.,4,2025-03-08
+R00190,P0008,Mediocre experience overall.,2,2024-11-28
+R00191,P0035,"Five stars, will buy again.",2,2025-04-22
+R00192,P0021,"Great product, fast delivery.",4,2025-08-20
+R00193,P0030,"Exceeded expectations, highly recommend!",5,2025-04-01
+R00194,P0006,Customer service did not respond.,3,2024-11-30
+R00195,P0042,Good value for money.,2,2025-10-04
+R00196,P0008,Customer service did not respond.,4,2025-10-07
+R00197,P0034,Amazing build quality and easy to use.,4,2025-01-10
+R00198,P0011,Amazing build quality and easy to use.,4,2025-05-09
+R00199,P0003,Customer service did not respond.,2,2025-02-03
+R00200,P0043,Product quality was below expectation.,2,2025-09-06
+R00201,P0012,"Five stars, will buy again.",1,2025-06-15
+R00202,P0020,"Packaging was damaged, but product is fine.",4,2025-01-03
+R00203,P0012,Product quality was below expectation.,1,2025-08-08
+R00204,P0001,"Packaging was damaged, but product is fine.",5,2025-11-13
+R00205,P0030,Size/color not as described.,4,2025-02-14
+R00206,P0001,Size/color not as described.,5,2025-07-21
+R00207,P0014,Size/color not as described.,5,2025-04-01
+R00208,P0027,Good value for money.,4,2025-01-16
+R00209,P0039,"Exceeded expectations, highly recommend!",1,2025-02-12
+R00210,P0018,Amazing build quality and easy to use.,5,2025-08-05
+R00211,P0004,Product quality was below expectation.,2,2025-10-22
+R00212,P0042,"Great product, fast delivery.",3,2025-09-06
+R00213,P0003,Mediocre experience overall.,5,2025-06-20
+R00214,P0022,"Great product, fast delivery.",1,2025-09-25
+R00215,P0027,Product quality was below expectation.,2,2024-12-10
+R00216,P0019,Mediocre experience overall.,5,2025-01-30
+R00217,P0036,Size/color not as described.,2,2025-01-27
+R00218,P0024,Good value for money.,1,2025-06-19
+R00219,P0021,"Five stars, will buy again.",3,2025-10-16
+R00220,P0028,Good value for money.,5,2025-06-23
+R00221,P0031,Good value for money.,2,2024-11-29
+R00222,P0018,Amazing build quality and easy to use.,3,2025-04-22
+R00223,P0034,"Exceeded expectations, highly recommend!",2,2025-01-10
+R00224,P0004,Mediocre experience overall.,1,2025-01-01
+R00225,P0034,Size/color not as described.,1,2024-12-02
+R00226,P0039,"Five stars, will buy again.",3,2025-01-12
+R00227,P0021,Amazing build quality and easy to use.,3,2025-01-29
+R00228,P0040,Product quality was below expectation.,3,2025-01-09
+R00229,P0037,Amazing build quality and easy to use.,4,2024-12-31
+R00230,P0032,Product quality was below expectation.,4,2025-01-11
+R00231,P0015,"Exceeded expectations, highly recommend!",3,2025-11-19
+R00232,P0008,Size/color not as described.,1,2025-01-03
+R00233,P0008,Mediocre experience overall.,2,2025-04-21
+R00234,P0027,Customer service did not respond.,1,2025-05-24
+R00235,P0036,"Great product, fast delivery.",2,2024-12-27
+R00236,P0013,"Packaging was damaged, but product is fine.",3,2025-10-16
+R00237,P0020,Amazing build quality and easy to use.,3,2025-02-11
+R00238,P0021,Good value for money.,1,2024-12-03
+R00239,P0022,"Five stars, will buy again.",3,2025-02-01
+R00240,P0040,Product quality was below expectation.,1,2025-08-12
+R00241,P0022,Size/color not as described.,3,2025-03-22
+R00242,P0003,Size/color not as described.,2,2025-09-01
+R00243,P0041,Amazing build quality and easy to use.,4,2025-06-01
+R00244,P0030,"Great product, fast delivery.",4,2025-02-26
+R00245,P0020,Customer service did not respond.,5,2025-02-08
+R00246,P0035,"Exceeded expectations, highly recommend!",1,2025-01-28
+R00247,P0044,Customer service did not respond.,3,2025-10-17
+R00248,P0010,"Great product, fast delivery.",3,2025-05-30
+R00249,P0025,Product quality was below expectation.,5,2025-01-31
+R00250,P0039,Product quality was below expectation.,4,2025-01-19
+R00251,P0008,Customer service did not respond.,3,2024-11-21
+R00252,P0003,"Five stars, will buy again.",3,2025-10-06
+R00253,P0032,Customer service did not respond.,2,2025-04-02
+R00254,P0020,Amazing build quality and easy to use.,2,2025-06-18
+R00255,P0012,Customer service did not respond.,1,2025-10-31
+R00256,P0013,Size/color not as described.,1,2025-03-05
+R00257,P0002,Amazing build quality and easy to use.,4,2025-09-02
+R00258,P0013,Size/color not as described.,3,2025-02-24
+R00259,P0020,Product quality was below expectation.,3,2025-09-30

@@ -1,0 +1,13 @@
+merchant_id,merchant_name,category,region,avg_monthly_sales,num_orders_month
+M001,Merchant_1,Electronics,US,38369.77,551
+M002,Merchant_2,Home,US,38141.2,1435
+M003,Merchant_3,Grocery,US,31572.16,115
+M004,Merchant_4,Electronics,US,14838.71,1084
+M005,Merchant_5,Grocery,US,30256.03,1516
+M006,Merchant_6,Grocery,AU,14919.83,1256
+M007,Merchant_7,Fashion,US,39146.33,376
+M008,Merchant_8,Beauty,AU,17504.21,490
+M009,Merchant_9,Fashion,US,9173.56,248
+M010,Merchant_10,Fashion,AU,32167.67,1702
+M011,Merchant_11,Electronics,AU,29130.26,1938
+M012,Merchant_12,Beauty,US,29841.83,1748
